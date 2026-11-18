@@ -25,8 +25,12 @@ This project explores process creation using `fork()` and demonstrates the relat
 
 ## Expected Results
 
-- Sum of odd numbers: `8226671401`
-- Number of multiples of 3: `60467`
+For an example input of N = 10:
+
+- Sum of odd numbers: 25
+- Number of multiples of 3: 3
+
+Results depend on the user-provided input.
 
 ## Learning Objectives
 
